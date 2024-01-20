@@ -2,6 +2,7 @@
 using namespace std;
 int main()
   {
+    // mohamed
    // input 
    int x , y , z;
    cout <<"enter x and y\n";
