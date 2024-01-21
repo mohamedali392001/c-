@@ -13,6 +13,8 @@ int main()
    z = x * y;
    // output
    cout << "area of rectangle equal:" << z << "\n" ;
+   int a=10 , b=20;
+   cout << a+b << endl;
   return 0;  
   }
   //مش لازم اخزن مساحه زياده في الميموري بكتابه متغير area 
