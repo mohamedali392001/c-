@@ -1,7 +1,8 @@
 #include<iostream> 
 using namespace std; 
 int main() 
-{ 	
+{ 
+      // program7	
     int n1,n2; 	
     cout<<"enter n1 and n2 \n"; 	
     cin>>n1>>n2; 	 	
